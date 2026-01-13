@@ -315,7 +315,6 @@ def battle():
             enemy.health = max(0, enemy.health - dmg)
             print(f"You attacked for {dmg} damage")
 
-        # SPECIAL MOVE
         elif action == "2":
             print("\nSpecial Moves:")
             for k, m in moves.items():
@@ -389,3 +388,4 @@ def main():
 
 
 main()
+
