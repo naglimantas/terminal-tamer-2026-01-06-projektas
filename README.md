@@ -6,9 +6,7 @@ Reikalingos programos / failai
 
 Python (rekomenduojama 3.8 arba naujesnė versija)
 
-Šio žaidimo Python failas (.py), kuriame yra klasė CharInfo, personažų duomenys ir ASCII paveikslėliai.
-
-Paleidimas
+Paleidimas:
 
 Įdiek Python.
 
